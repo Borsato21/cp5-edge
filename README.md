@@ -91,7 +91,7 @@ const char* BROKER_MQTT = "IP_PUBLICO_DO_BROKER";
 ---
 
 ## 🎥 Vídeo de Demonstração
-👉 [Assista ao vídeo aqui](https://youtu.be/)
+👉 [Assista ao vídeo aqui](https://youtu.be/Ta4a7xvd3Ns)
 
 ---
 
